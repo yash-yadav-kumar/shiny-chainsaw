@@ -1,2 +1,2 @@
 # Shiny-Chainsaw
-This the test of a simple repository that includes a readme file
+This is a transparent version of a login page that uses some font awesome icons
