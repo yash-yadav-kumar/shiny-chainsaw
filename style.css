@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(bg.jpeg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    border: 12px solid black;
+    color: white;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+
+.container h1 {
+    font-size: 40px;
+    border-bottom: 5px solid purple;
+    margin-bottom: 40px;
+    padding: 13px 0;
+}
+
+.container .box {
+    width: 100%;
+}
